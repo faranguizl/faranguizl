@@ -1,5 +1,5 @@
-# 💫 About Me:
-Electrónico de profesión.<br>Me gustaría hacer más proyectos de los que realmente hago.<br>Trabajando en proyectos para ayudar en la demostración de las capacidades de productos de Red Hat.<br>Pruebo asistentes de código para las soluciones que publico.
+# 💫 Fernando:
+⚡ Electrónico de profesión.<br> 🚀 Me gustaría hacer más proyectos de los que realmente hago.<br> 🌱 Trabajando en proyectos para ayudar en la demostración de las capacidades de productos de Red Hat.<br> 🏆 Pruebo asistentes de código para las soluciones que publico.
 
 
 ## 🌐 Socials:
